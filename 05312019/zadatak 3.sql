@@ -1,0 +1,2 @@
+INSERT INTO Termin (IdTer, Od, Do,IdSki,Cena) 
+VALUES (7, 20190213, 20190217, 1, 170)

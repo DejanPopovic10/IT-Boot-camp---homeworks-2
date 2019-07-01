@@ -1,0 +1,11 @@
+10 4
+  X OXO   
+O     XO  
+ O   O  O 
+    X    O
+        XX
+ X   O   X
+ O O      
+      O  O
+      O X 
+O       X 
